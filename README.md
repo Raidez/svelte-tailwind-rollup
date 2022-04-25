@@ -4,7 +4,7 @@ This is a template for use [Svelte](https://svelte.dev/) with [TailwindCSS](http
 
 ## Get started
 
-1. download the template or use the command `npx degit svelte-tailwind-rollup/template svelte-app`
+1. download the template or use the command `npx degit Raidez/svelte-tailwind-rollup svelte-app`
 2. go to the directory
 3. rename the application, search all _svelte-tailwind-rollup_ reference (index.html, package.json)
 4. execute `npm install` to install dependencies
